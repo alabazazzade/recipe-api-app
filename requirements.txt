@@ -1,0 +1,2 @@
+Django>=3.2.4,<3.3  # we can ensure thet we have version 3.2 but the latest patch(bugs and security issues fixed but not updated to the latest version(no breaking in the code because of the newer version of django)
+djangorestframework>=3.12.4,<3.13
